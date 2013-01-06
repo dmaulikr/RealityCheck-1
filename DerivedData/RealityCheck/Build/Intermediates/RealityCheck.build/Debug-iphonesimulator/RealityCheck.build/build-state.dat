@@ -1,0 +1,926 @@
+TRealityCheck
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Info.plist RealityCheck/RealityCheck-Info.plist
+cProcessPCH /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch.pth RealityCheck/RealityCheck-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/MainViewController.o /Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/main.o /Users/tigra/Desktop/RealityCheck/RealityCheck/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/FlipsideViewController.o /Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AppDelegate.o /Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AudioMaster.o /Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck normal i386
+cGenerateDSYMFile /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app.dSYM /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck
+cCopyStringsFile /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/InfoPlist.strings RealityCheck/en.lproj/InfoPlist.strings
+cCpResource RealityCheck/Default.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default.png
+cCpResource RealityCheck/Default-568h@2x.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default-568h@2x.png
+cCpResource RealityCheck/Default@2x.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default@2x.png
+cCompileXIB /Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/FlipsideViewController.xib
+cCompileXIB /Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/MainViewController.xib
+cCpResource RealityCheck/rcsounds/bell.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/bell.wav
+cCpResource RealityCheck/rcsounds/buzz.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/buzz.wav
+cCpResource RealityCheck/rcsounds/danse.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse.wav
+cCpResource RealityCheck/rcsounds/danse-sax.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse-sax.wav
+cCpResource "RealityCheck/rcsounds/dates egg.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/dates egg.wav"
+cCpResource RealityCheck/rcsounds/doremi.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/doremi.wav
+cCpResource RealityCheck/rcsounds/HLJoin.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLJoin.aif
+cCpResource RealityCheck/rcsounds/echo.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/echo.wav
+cCpResource RealityCheck/rcsounds/HLLeave.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLLeave.aif
+cCpResource RealityCheck/rcsounds/HLMessage.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLMessage.aif
+cCpResource RealityCheck/rcsounds/os9-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/os9-alert.wav
+cCpResource "RealityCheck/rcsounds/mirai nikki.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/mirai nikki.wav"
+cCpResource RealityCheck/rcsounds/psst.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/psst.wav
+cCpResource "RealityCheck/rcsounds/out there.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/out there.wav"
+cCpResource RealityCheck/rcsounds/startup.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/startup.wav
+cCpResource RealityCheck/rcsounds/Startups.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Startups.wav
+cCpResource RealityCheck/rcsounds/tweetbot-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert.wav
+cCpResource "RealityCheck/rcsounds/Techno Dance.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Techno Dance.wav"
+cCpResource RealityCheck/rcsounds/tweetbot-alert2.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert2.wav
+cCpResource RealityCheck/rcsounds/windowsxp-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/windowsxp-alert.wav
+cCpResource RealityCheck/nosleep.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/nosleep.png
+cCpResource RealityCheck/sleep.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/sleep.png
+cCpResource RealityCheck/lookaway.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/lookaway.png
+cCpResource icon.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon.png
+cCpResource RealityCheck/iPhone_2G.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/iPhone_2G.png
+cCpResource icon@2x.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon@2x.png
+cTouch /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c0000000050ADC47F0000000000000132
+t1353565311
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050A0BB2A00000000003D2B80
+t1352710954
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050A0BB2A0000000000228FD0
+t1352710954
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050A0BB2B00000000003DCEF0
+t1352710955
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050A0BB2A00000000000015F7
+t1352710954
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050A0BB2D0000000000000E8D
+t1352710957
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050A0BB2F0000000000AB3D60
+t1352710959
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c0000000050A0BB380000000000001B54
+t1352710968
+s6996
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch.pth
+t1357459889
+s4827828
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-faxkzyyashhwhbesngbzifsznlbo/RealityCheck-Prefix.pch.pth
+t2
+s0
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AppDelegate.o
+t1357462658
+s92436
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AudioMaster.o
+t1357462850
+s13372
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/FlipsideViewController.o
+t1357459889
+s75000
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/MainViewController.o
+t1357462991
+s100440
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/RealityCheck.LinkFileList
+c0000000050E93D42000000000000036C
+t1357462850
+s876
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/main.o
+t1357459889
+s3296
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app
+t1357462991
+s1190
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app.dSYM
+t1357462991
+s102
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default-568h@2x.png
+t1357458967
+s18594
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default.png
+t1357458967
+s6540
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default@2x.png
+t1357458967
+s16107
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLJoin.aif
+t1357458967
+s339274
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLLeave.aif
+t1357458967
+s421834
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLMessage.aif
+t1357458967
+s366794
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Info.plist
+t1357462657
+s1037
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/PkgInfo
+t1357462657
+s8
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck
+t1357462991
+s57328
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Startups.wav
+t1357458967
+s1134908
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Techno Dance.wav
+t1357458967
+s56471
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/bell.wav
+t1357458967
+s131116
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/buzz.wav
+t1357458967
+s94252
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse-sax.wav
+t1357458967
+s1547200
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse.wav
+t1357458967
+s713800
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/dates egg.wav
+t1357458967
+s100396
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/doremi.wav
+t1357458967
+s342060
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/echo.wav
+t1357458967
+s399404
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/FlipsideViewController.nib
+t1357462659
+s3817
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/InfoPlist.strings
+t1357458967
+s42
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/MainViewController.nib
+t1357462659
+s1847
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/iPhone_2G.png
+t1357459889
+s118504
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon.png
+t1357462658
+s4808
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon@2x.png
+t1357462658
+s6881
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/lookaway.png
+t1357462658
+s42284
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/mirai nikki.wav
+t1357458967
+s353908
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/nosleep.png
+t1357458967
+s213756
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/os9-alert.wav
+t1357458967
+s139308
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/out there.wav
+t1357458967
+s389164
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/psst.wav
+t1357458967
+s96300
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/sleep.png
+t1357458967
+s213855
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/startup.wav
+t1357458967
+s450604
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert.wav
+t1357458967
+s89744
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert2.wav
+t1357458967
+s90196
+
+N/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/windowsxp-alert.wav
+t1357458967
+s44136
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.h
+c0000000050E922D6000000000000018A
+t1357456086
+s394
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.m
+c0000000050E935BE0000000000000BA4
+t1357460926
+s2980
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.h
+c000000004F02AB6A00000000000001DB
+t1325575018
+s475
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.m
+c0000000050325F2700000000000009F4
+t1345478439
+s2548
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.h
+c0000000050E92E14000000000000027B
+t1357458964
+s635
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.m
+c0000000050E92E1300000000000003E9
+t1357458963
+s1001
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.h
+c0000000050E9366B0000000000000207
+t1357461099
+s519
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.m
+c0000000050E93DF30000000000001648
+t1357463027
+s5704
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/RealityCheck-Prefix.pch
+c0000000050E922D60000000000000147
+t1357456086
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/FlipsideViewController.xib
+c0000000050E93B7D00000000000C8D07
+t1357462397
+s822535
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/InfoPlist.strings
+c0000000050E922D6000000000000002D
+t1357456086
+s45
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/MainViewController.xib
+c0000000050E9366B0000000000002CFE
+t1357461099
+s11518
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/iPhone_2G.png
+c0000000050E9303D000000000001CEE8
+t1357459517
+s118504
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/lookaway.png
+c0000000050E93B3E000000000000A52C
+t1357462334
+s42284
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/main.m
+c0000000050E922D60000000000000162
+t1357456086
+s354
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/nosleep.png
+c0000000050E92AB800000000000342FC
+t1357458104
+s213756
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/HLJoin.aif
+c000000004BB079370000000000052D4A
+t1269856567
+s339274
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/HLLeave.aif
+c000000004BB0795F0000000000066FCA
+t1269856607
+s421834
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/HLMessage.aif
+c000000004BB07A1800000000000598CA
+t1269856792
+s366794
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/Startups.wav
+c0000000046374DF8000000000011513C
+t1178029560
+s1134908
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/Techno Dance.wav
+c00000000499B8642000000000000DC97
+t1234929218
+s56471
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/bell.wav
+c000000004E883AD1000000000002002C
+t1317550801
+s131116
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/buzz.wav
+c000000004E883B09000000000001702C
+t1317550857
+s94252
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/danse-sax.wav
+c0000000050E924950000000000179BC0
+t1357456533
+s1547200
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/danse.wav
+c0000000050E9246100000000000AE448
+t1357456481
+s713800
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/dates egg.wav
+c000000004E883D34000000000001882C
+t1317551412
+s100396
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/doremi.wav
+c000000004E883B6E000000000005382C
+t1317550958
+s342060
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/echo.wav
+c000000004E883B89000000000006182C
+t1317550985
+s399404
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/mirai nikki.wav
+c00000000503378270000000000056674
+t1345550375
+s353908
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/os9-alert.wav
+c000000004E883FC0000000000002202C
+t1317552064
+s139308
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/out there.wav
+c000000004E883BBE000000000005F02C
+t1317551038
+s389164
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/psst.wav
+c000000004E883C3D000000000001782C
+t1317551165
+s96300
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/startup.wav
+c000000004E883F3E000000000006E02C
+t1317551934
+s450604
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/tweetbot-alert.wav
+c000000004E25664B0000000000015E90
+t1311073867
+s89744
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/tweetbot-alert2.wav
+c000000004E25664B0000000000016054
+t1311073867
+s90196
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/windowsxp-alert.wav
+c000000004122AA10000000000000AC68
+t1092790800
+s44136
+
+N/Users/tigra/Desktop/RealityCheck/RealityCheck/sleep.png
+c0000000050E92AC2000000000003435F
+t1357458114
+s213855
+
+N/Users/tigra/Desktop/RealityCheck/icon.png
+c0000000050E93C5A00000000000012C8
+t1357462618
+s4808
+
+N/Users/tigra/Desktop/RealityCheck/icon@2x.png
+c0000000050E93C4D0000000000001AE1
+t1357462605
+s6881
+
+NRealityCheck/RealityCheck-Info.plist
+c0000000050E93BF5000000000000069B
+t1357462517
+s1691
+
+CBuild AST from /Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/RealityCheck/RealityCheck/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb3efda757599b641^c022db757599b641^---0#1#0#--18"Check dependencies36"AEB0E539-8E4B-4348-ABCA-BE9F30BA92DE-
+
+CCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AppDelegate.o /Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379155457.858073
+e379155458.007741
+r1
+xCompileC
+xDerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AppDelegate.o
+x/Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.m58c9db017499b641^e90e02027499b641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.m0000000000000000^4047"CompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AppDelegate.o RealityCheck/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/RealityCheck    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-generated-files.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-own-target-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-all-target-headers.hmap -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-project-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources/i386 -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources -F/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator -include /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AppDelegate.dia -c /Users/tigra/Desktop/RealityCheck/RealityCheck/AppDelegate.m -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AppDelegate.o36"9605B931-156A-46E8-A726-6D8F754FDDCD-
+
+CCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AudioMaster.o /Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379155650.836322
+e379155650.938615
+r1
+xCompileC
+xDerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AudioMaster.o
+x/Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.m062fd6c27499b641^0151f0c27499b641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.m0000000000000000^4047"CompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AudioMaster.o RealityCheck/AudioMaster.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/RealityCheck    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-generated-files.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-own-target-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-all-target-headers.hmap -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-project-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources/i386 -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources -F/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator -include /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AudioMaster.d --serialize-diagnostics /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AudioMaster.dia -c /Users/tigra/Desktop/RealityCheck/RealityCheck/AudioMaster.m -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/AudioMaster.o36"8F9198CC-8219-4445-8C25-BFCC3E402CB4-
+
+CCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/FlipsideViewController.o /Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379152689.091956
+e379152689.185895
+r1
+xCompileC
+xDerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.m6b9e17316999b641^6c962f316999b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.m0000000000000000^4113"CompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/FlipsideViewController.o RealityCheck/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/RealityCheck    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-generated-files.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-own-target-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-all-target-headers.hmap -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-project-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources/i386 -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources -F/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator -include /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/FlipsideViewController.d --serialize-diagnostics /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/FlipsideViewController.dia -c /Users/tigra/Desktop/RealityCheck/RealityCheck/FlipsideViewController.m -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/FlipsideViewController.o36"FC1AC4DB-21F1-48EC-9B16-CECA25FC29E9-
+
+CCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/MainViewController.o /Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379155829.879318
+e379155830.003663
+r1
+xCompileC
+xDerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/MainViewController.o
+x/Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.m6a34e1757599b641^feef00767599b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.m0000000000000000^4089"CompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/MainViewController.o RealityCheck/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/RealityCheck    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-generated-files.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-own-target-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-all-target-headers.hmap -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-project-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources/i386 -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources -F/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator -include /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/MainViewController.dia -c /Users/tigra/Desktop/RealityCheck/RealityCheck/MainViewController.m -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/MainViewController.o36"9D7CC91B-FFEE-4D25-8787-4E683419866E-
+
+CCompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/main.o /Users/tigra/Desktop/RealityCheck/RealityCheck/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379152689.091418
+e379152689.134766
+r1
+xCompileC
+xDerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/main.o
+x/Users/tigra/Desktop/RealityCheck/RealityCheck/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/tigra/Desktop/RealityCheck/RealityCheck/main.m128817316999b641^398022316999b641^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/main.m0000000000000000^4005"CompileC DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/main.o RealityCheck/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/RealityCheck    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-generated-files.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-own-target-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-all-target-headers.hmap -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-project-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources/i386 -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources -F/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator -include /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/main.dia -c /Users/tigra/Desktop/RealityCheck/RealityCheck/main.m -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/main.o36"177DAC2C-7773-4824-8421-6AAE6DFA71F6-
+
+CCompileXIB /Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/FlipsideViewController.xib
+s379155458.213834
+e379155459.071225
+r1
+xCompileXIB
+x/Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/FlipsideViewController.xib
+o2013-01-06 14:57:38.977 Interface Builder Cocoa Touch Tool[2470:f07] CFPreferences: user home directory at file://localhost/Users/tigra/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compiling /Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/FlipsideViewController.xib05e136027499b641^5e4912037499b641^-237"2013-01-06 14:57:38.977 Interface Builder Cocoa Touch Tool[2470:f07] CFPreferences: user home directory at file://localhost/Users/tigra/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/FlipsideViewController.xib0000000000000000^972"CompileXIB RealityCheck/en.lproj/FlipsideViewController.xib    cd /Users/tigra/Desktop/RealityCheck    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/FlipsideViewController.nib /Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/FlipsideViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"03D2BDAA-C70E-4CAB-ACB5-89BF074954B3-
+
+CCompileXIB /Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/MainViewController.xib
+s379155458.213247
+e379155459.016176
+r1
+xCompileXIB
+x/Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/MainViewController.xib
+o2013-01-06 14:57:38.949 Interface Builder Cocoa Touch Tool[2469:f07] CFPreferences: user home directory at file://localhost/Users/tigra/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/MainViewController.xibbcaf36027499b641^e63b04037499b641^-237"2013-01-06 14:57:38.949 Interface Builder Cocoa Touch Tool[2469:f07] CFPreferences: user home directory at file://localhost/Users/tigra/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/MainViewController.xib0000000000000000^960"CompileXIB RealityCheck/en.lproj/MainViewController.xib    cd /Users/tigra/Desktop/RealityCheck    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/MainViewController.nib /Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"B54D0ED2-3BD4-4B6D-BDF0-33CEC653EB7F-
+
+CCopyStringsFile /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/InfoPlist.strings RealityCheck/en.lproj/InfoPlist.strings
+s379151767.335243
+e379151767.353342
+r1
+xCopyStringsFile
+x/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/InfoPlist.strings
+xRealityCheck/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy RealityCheck/en.lproj/InfoPlist.stringsdae755976599b641^d47f5a976599b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/en.lproj/InfoPlist.strings0000000000000000^653"CopyStringsFile DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj/InfoPlist.strings RealityCheck/en.lproj/InfoPlist.strings    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/en.lproj -- RealityCheck/en.lproj/InfoPlist.strings36"6FA59616-6D1D-4B7C-8E8C-BEF21C71355B-
+
+CCpResource "RealityCheck/rcsounds/Techno Dance.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Techno Dance.wav"
+s379151767.523957
+e379151767.582404
+r1
+xCpResource
+xRealityCheck/rcsounds/Techno Dance.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Techno Dance.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Techno Dance.wav863886976599b641^721795976599b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Techno%20Dance.wav000000000080d041^686"CpResource "RealityCheck/rcsounds/Techno Dance.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Techno Dance.wav"    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/Techno Dance.wav" /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"244FE182-FEA0-48F4-9AF7-2F13AC2DDA78-
+
+CCpResource "RealityCheck/rcsounds/dates egg.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/dates egg.wav"
+s379151767.421648
+e379151767.426015
+r1
+xCpResource
+xRealityCheck/rcsounds/dates egg.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/dates egg.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/dates egg.wav25076c976599b641^ed0e6d976599b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/dates%20egg.wav000000000080d041^677"CpResource "RealityCheck/rcsounds/dates egg.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/dates egg.wav"    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/dates egg.wav" /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"13BB1402-4F95-4C64-91AF-78DD33A86ED8-
+
+CCpResource "RealityCheck/rcsounds/mirai nikki.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/mirai nikki.wav"
+s379151767.465083
+e379151767.476551
+r1
+xCpResource
+xRealityCheck/rcsounds/mirai nikki.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/mirai nikki.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/mirai nikki.wav312477976599b641^87fe79976599b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/mirai%20nikki.wav000000000080d041^683"CpResource "RealityCheck/rcsounds/mirai nikki.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/mirai nikki.wav"    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/mirai nikki.wav" /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"0EA7C1E7-778A-4F3D-AA1C-E548889328CB-
+
+CCpResource "RealityCheck/rcsounds/out there.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/out there.wav"
+s379151767.474485
+e379151767.521533
+r1
+xCpResource
+xRealityCheck/rcsounds/out there.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/out there.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/out there.wav1e8b79976599b641^8e9485976599b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/out%20there.wav000000000080d041^677"CpResource "RealityCheck/rcsounds/out there.wav" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/out there.wav"    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/out there.wav" /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"56194C3E-4E34-47CF-879D-30DAB000FF41-
+
+CCpResource RealityCheck/Default-568h@2x.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default-568h@2x.png
+s379151767.335629
+e379151767.340793
+r1
+xCpResource
+xRealityCheck/Default-568h@2x.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default-568h@2x.png48fd55976599b641^789757976599b641^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default-568h@2x.png000000000080d041^677"CpResource "RealityCheck/Default-568h@2x.png" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default-568h@2x.png"    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/tigra/Desktop/RealityCheck/RealityCheck/Default-568h@2x.png" /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"3124D20E-54EF-403E-A2C5-53421F515984-
+
+CCpResource RealityCheck/Default.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default.png
+s379151767.335234
+e379151767.337298
+r1
+xCpResource
+xRealityCheck/Default.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default.png32e355976599b641^c05956976599b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default.png000000000080d041^647"CpResource RealityCheck/Default.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default.png    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/Default.png /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"B41E6125-8AC4-44DE-AB87-8C3906A8DBF6-
+
+CCpResource RealityCheck/Default@2x.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default@2x.png
+s379151767.335237
+e379151767.338373
+r1
+xCpResource
+xRealityCheck/Default@2x.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default@2x.png9fe555976599b641^55a056976599b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default@2x.png000000000080d041^662"CpResource "RealityCheck/Default@2x.png" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Default@2x.png"    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/tigra/Desktop/RealityCheck/RealityCheck/Default@2x.png" /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"B1552837-CF0A-4DD5-B600-02F9AED93269-
+
+CCpResource RealityCheck/iPhone_2G.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/iPhone_2G.png
+s379152689.322274
+e379152689.324837
+r1
+xCpResource
+xRealityCheck/iPhone_2G.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/iPhone_2G.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/iPhone_2G.png8d9752316999b641^465b55316999b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/iPhone_2G.png000000000080d041^653"CpResource RealityCheck/iPhone_2G.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/iPhone_2G.png    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/iPhone_2G.png /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"DB9C35D4-59C6-429D-81AC-3B5C2BD9000D-
+
+CCpResource RealityCheck/lookaway.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/lookaway.png
+s379155458.240015
+e379155458.246488
+r1
+xCpResource
+xRealityCheck/lookaway.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/lookaway.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/lookaway.pngec863d027499b641^64243f027499b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/lookaway.png000000000080d041^650"CpResource RealityCheck/lookaway.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/lookaway.png    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/lookaway.png /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"FB8BB8BE-E40C-446F-9E67-DDB9C815290E-
+
+CCpResource RealityCheck/nosleep.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/nosleep.png
+s379151767.633571
+e379151767.650319
+r1
+xCpResource
+xRealityCheck/nosleep.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/nosleep.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/nosleep.png874fa2976599b641^f67ba6976599b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/nosleep.png000000000080d041^647"CpResource RealityCheck/nosleep.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/nosleep.png    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/nosleep.png /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"A9AEA7BA-11D9-4919-A6D3-2FCD75141903-
+
+CCpResource RealityCheck/rcsounds/HLJoin.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLJoin.aif
+s379151767.433379
+e379151767.439626
+r1
+xCpResource
+xRealityCheck/rcsounds/HLJoin.aif
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLJoin.aif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLJoin.aif4a076f976599b641^938c70976599b641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLJoin.aif000000000080d041^662"CpResource RealityCheck/rcsounds/HLJoin.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLJoin.aif    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/HLJoin.aif /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"9BF8866D-F96A-45AD-8FD2-CAEEE2FB31DD-
+
+CCpResource RealityCheck/rcsounds/HLLeave.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLLeave.aif
+s379151767.438184
+e379151767.473477
+r1
+xCpResource
+xRealityCheck/rcsounds/HLLeave.aif
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLLeave.aif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLLeave.aifdd4170976599b641^a73d79976599b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLLeave.aif000000000080d041^665"CpResource RealityCheck/rcsounds/HLLeave.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLLeave.aif    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/HLLeave.aif /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"ECA1E5B0-DACD-4638-BBB7-D50EEAC2367E-
+
+CCpResource RealityCheck/rcsounds/HLMessage.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLMessage.aif
+s379151767.440873
+e379151767.472437
+r1
+xCpResource
+xRealityCheck/rcsounds/HLMessage.aif
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLMessage.aif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLMessage.aif4ef170976599b641^d7f878976599b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLMessage.aif000000000080d041^671"CpResource RealityCheck/rcsounds/HLMessage.aif DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/HLMessage.aif    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/HLMessage.aif /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"E97F14D6-B32B-4BD0-BB19-D2EEE13EFDB7-
+
+CCpResource RealityCheck/rcsounds/Startups.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Startups.wav
+s379151767.517812
+e379151767.656026
+r1
+xCpResource
+xRealityCheck/rcsounds/Startups.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Startups.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Startups.wavaeb884976599b641^52f1a7976599b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Startups.wav000000000080d041^668"CpResource RealityCheck/rcsounds/Startups.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Startups.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/Startups.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"965B13C1-0FB3-44AD-9787-FE549E5A62AF-
+
+CCpResource RealityCheck/rcsounds/bell.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/bell.wav
+s379151767.341954
+e379151767.383484
+r1
+xCpResource
+xRealityCheck/rcsounds/bell.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/bell.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/bell.wav5a9e57976599b641^772c62976599b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/bell.wav000000000080d041^656"CpResource RealityCheck/rcsounds/bell.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/bell.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/bell.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"6DBBC083-714E-4F26-B2A1-6AEFF994F574-
+
+CCpResource RealityCheck/rcsounds/buzz.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/buzz.wav
+s379151767.354614
+e379151767.382849
+r1
+xCpResource
+xRealityCheck/rcsounds/buzz.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/buzz.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/buzz.wav72df5a976599b641^750262976599b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/buzz.wav000000000080d041^656"CpResource RealityCheck/rcsounds/buzz.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/buzz.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/buzz.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"727C1955-10FE-4962-B002-BF9EBEE89F49-
+
+CCpResource RealityCheck/rcsounds/danse-sax.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse-sax.wav
+s379151767.384088
+e379151767.428374
+r1
+xCpResource
+xRealityCheck/rcsounds/danse-sax.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse-sax.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse-sax.wavad6962976599b641^82aa6d976599b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse-sax.wav000000000080d041^671"CpResource RealityCheck/rcsounds/danse-sax.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse-sax.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/danse-sax.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"A9000173-2C98-41C1-A082-046C9668AB9B-
+
+CCpResource RealityCheck/rcsounds/danse.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse.wav
+s379151767.384092
+e379151767.419519
+r1
+xCpResource
+xRealityCheck/rcsounds/danse.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse.wav946b62976599b641^a5666b976599b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse.wav000000000080d041^659"CpResource RealityCheck/rcsounds/danse.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/danse.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/danse.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"EF934229-3690-48FD-B3C8-4436EB1EA37B-
+
+CCpResource RealityCheck/rcsounds/doremi.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/doremi.wav
+s379151767.427293
+e379151767.432111
+r1
+xCpResource
+xRealityCheck/rcsounds/doremi.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/doremi.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/doremi.wav73836d976599b641^d49e6e976599b641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/doremi.wav000000000080d041^662"CpResource RealityCheck/rcsounds/doremi.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/doremi.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/doremi.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"C3591D81-44BC-4BF1-AD42-EA401E777784-
+
+CCpResource RealityCheck/rcsounds/echo.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/echo.wav
+s379151767.429748
+e379151767.436956
+r1
+xCpResource
+xRealityCheck/rcsounds/echo.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/echo.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/echo.wav581c6e976599b641^9fe76f976599b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/echo.wav000000000080d041^656"CpResource RealityCheck/rcsounds/echo.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/echo.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/echo.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"DA18CC04-D13F-4955-AD09-1C72D82A5DFC-
+
+CCpResource RealityCheck/rcsounds/os9-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/os9-alert.wav
+s379151767.473865
+e379151767.516050
+r1
+xCpResource
+xRealityCheck/rcsounds/os9-alert.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/os9-alert.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/os9-alert.wav286279976599b641^cc2684976599b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/os9-alert.wav000000000080d041^671"CpResource RealityCheck/rcsounds/os9-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/os9-alert.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/os9-alert.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"17FBC9B6-5ECB-41EF-BA45-F223AD7D7BD0-
+
+CCpResource RealityCheck/rcsounds/psst.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/psst.wav
+s379151767.477723
+e379151767.516843
+r1
+xCpResource
+xRealityCheck/rcsounds/psst.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/psst.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/psst.wav895e7a976599b641^975584976599b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/psst.wav000000000080d041^656"CpResource RealityCheck/rcsounds/psst.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/psst.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/psst.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"3557F7E3-4F70-40C3-A924-CA49FBED15FE-
+
+CCpResource RealityCheck/rcsounds/startup.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/startup.wav
+s379151767.517814
+e379151767.551433
+r1
+xCpResource
+xRealityCheck/rcsounds/startup.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/startup.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/startup.wav05a584976599b641^c6328d976599b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/startup.wav000000000080d041^665"CpResource RealityCheck/rcsounds/startup.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/startup.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/startup.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"EF7E1EAD-2B57-4E42-859B-F8F488FA9893-
+
+CCpResource RealityCheck/rcsounds/tweetbot-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert.wav
+s379151767.552762
+e379151767.622905
+r1
+xCpResource
+xRealityCheck/rcsounds/tweetbot-alert.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert.wavda928d976599b641^2e769f976599b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert.wav000000000080d041^686"CpResource RealityCheck/rcsounds/tweetbot-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/tweetbot-alert.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"8FD1D468-BD6A-49AA-B1EB-022AA7219106-
+
+CCpResource RealityCheck/rcsounds/tweetbot-alert2.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert2.wav
+s379151767.583678
+e379151767.632039
+r1
+xCpResource
+xRealityCheck/rcsounds/tweetbot-alert2.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert2.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert2.wav297995976599b641^03cfa1976599b641^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert2.wav000000000080d041^689"CpResource RealityCheck/rcsounds/tweetbot-alert2.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/tweetbot-alert2.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/tweetbot-alert2.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"F96B4680-5A59-42D2-BB19-3CD9C5FEB806-
+
+CCpResource RealityCheck/rcsounds/windowsxp-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/windowsxp-alert.wav
+s379151767.624144
+e379151767.633778
+r1
+xCpResource
+xRealityCheck/rcsounds/windowsxp-alert.wav
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/windowsxp-alert.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/windowsxp-alert.wavf1d49f976599b641^d046a2976599b641^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/windowsxp-alert.wav000000000080d041^689"CpResource RealityCheck/rcsounds/windowsxp-alert.wav DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/windowsxp-alert.wav    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/rcsounds/windowsxp-alert.wav /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"5E87D157-917C-41FE-8D25-D2B3CBD02E70-
+
+CCpResource RealityCheck/sleep.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/sleep.png
+s379151767.635026
+e379151767.650633
+r1
+xCpResource
+xRealityCheck/sleep.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/sleep.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/sleep.png19aaa2976599b641^4b93a6976599b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/sleep.png000000000080d041^641"CpResource RealityCheck/sleep.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/sleep.png    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/RealityCheck/sleep.png /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"0E5E0502-DAD3-4D2D-9677-087116FB9EC8-
+
+CCpResource icon.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon.png
+s379155458.244044
+e379155458.249374
+r1
+xCpResource
+xicon.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon.png0abd3e027499b641^cee03f027499b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon.png000000000080d041^612"CpResource icon.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon.png    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/RealityCheck/icon.png /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"2BF66F2C-3714-4972-A504-F9282F8B4DCE-
+
+CCpResource icon@2x.png DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon@2x.png
+s379155458.247698
+e379155458.251296
+r1
+xCpResource
+xicon@2x.png
+xDerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon@2x.png05c53f027499b641^545540027499b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon@2x.png000000000080d041^627"CpResource "icon@2x.png" "DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/icon@2x.png"    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/tigra/Desktop/RealityCheck/icon@2x.png" /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"6FC4F6F8-B1AF-4BBF-9BD5-1211ACF42DD3-
+
+CGenerateDSYMFile /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app.dSYM /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck
+s379155830.049629
+e379155830.078563
+r1
+xGenerateDSYMFile
+x/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app.dSYM
+x/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Generating /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app.dSYMadc00c767599b641^c51c14767599b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app.dSYM/0000000000000000^776"GenerateDSYMFile DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app.dSYM DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app.dSYM36"C3098949-EDBF-4E47-BA96-0E24AD8A6FE0-
+
+CLd /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck normal i386
+s379155830.014978
+e379155830.042862
+r1
+xLd
+x/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck36e403767599b641^55f90a767599b641^---0#0#0#--1345"Ld DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck normal i386    cd /Users/tigra/Desktop/RealityCheck    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator -F/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator -filelist /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/Objects-normal/i386/RealityCheck.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.3 -framework AudioToolbox -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/RealityCheck36"9775DB74-6E71-45B0-ADAA-B14EED04189F-
+
+CProcessInfoPlistFile /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Info.plist RealityCheck/RealityCheck-Info.plist
+s379155457.823012
+e379155457.843072
+r1
+xProcessInfoPlistFile
+x/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Info.plist
+xRealityCheck/RealityCheck-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process RealityCheck/RealityCheck-Info.plistdee5d2017499b641^b1dfd7017499b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/RealityCheck-Info.plist0000000000000000^772"ProcessInfoPlistFile DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Info.plist RealityCheck/RealityCheck-Info.plist    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RealityCheck/RealityCheck-Info.plist -genpkginfo /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app/Info.plist36"971FA4B5-DC82-48D9-A9A0-3FC4D0C1DBE5-
+
+CProcessPCH /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch.pth RealityCheck/RealityCheck-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379152688.751227
+e379152689.084594
+r1
+xProcessPCH
+x/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch.pth
+xRealityCheck/RealityCheck-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile RealityCheck/RealityCheck-Prefix.pch166bc0306999b641^b1a715316999b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/RealityCheck-Prefix.pch0000000000000000^3900"ProcessPCH DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch.pth RealityCheck/RealityCheck-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/RealityCheck    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-generated-files.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-own-target-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-all-target-headers.hmap -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-project-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources/i386 -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources -F/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch.dia -c /Users/tigra/Desktop/RealityCheck/RealityCheck/RealityCheck-Prefix.pch -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch.pth -MMD -MT dependencies -MF /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-cpglaxeahluxveauetjuatioevag/RealityCheck-Prefix.pch.d36"3D6B8884-BCCD-4148-8F0B-C548B15E2E67-
+
+CProcessPCH /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-faxkzyyashhwhbesngbzifsznlbo/RealityCheck-Prefix.pch.pth RealityCheck/RealityCheck-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379151765.059869
+e379151766.223817
+r1
+xProcessPCH
+x/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-faxkzyyashhwhbesngbzifsznlbo/RealityCheck-Prefix.pch.pth
+xRealityCheck/RealityCheck-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile RealityCheck/RealityCheck-Prefix.pch64750f956599b641^5a4b39966599b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/tigra/Desktop/RealityCheck/RealityCheck/RealityCheck-Prefix.pch0000000000000000^3900"ProcessPCH DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-faxkzyyashhwhbesngbzifsznlbo/RealityCheck-Prefix.pch.pth RealityCheck/RealityCheck-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/RealityCheck    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-generated-files.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-own-target-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-all-target-headers.hmap -iquote /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/RealityCheck-project-headers.hmap -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources/i386 -I/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/RealityCheck.build/Debug-iphonesimulator/RealityCheck.build/DerivedSources -F/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-faxkzyyashhwhbesngbzifsznlbo/RealityCheck-Prefix.pch.dia -c /Users/tigra/Desktop/RealityCheck/RealityCheck/RealityCheck-Prefix.pch -o /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-faxkzyyashhwhbesngbzifsznlbo/RealityCheck-Prefix.pch.pth -MMD -MT dependencies -MF /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Intermediates/PrecompiledHeaders/RealityCheck-Prefix-faxkzyyashhwhbesngbzifsznlbo/RealityCheck-Prefix.pch.d36"19445B73-BFF4-430B-B45D-C876D6F47B2C-
+
+CProcessPCH /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Index/PrecompiledHeaders/RealityCheck-Prefix-bxfstowwrtrpgeeztfaznyzkfinf_ast/RealityCheck-Prefix.pch.pth RealityCheck/RealityCheck-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Index/PrecompiledHeaders/RealityCheck-Prefix-gmtvjdbcmjuhmnelaaujszeyoozw_ast/RealityCheck-Prefix.pch.pth RealityCheck/RealityCheck-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app
+s379155830.126513
+e379155830.135333
+r1
+xTouch
+x/Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Touch /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app518820767599b641^d7a522767599b641^---0#0#0#--456"Touch DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app    cd /Users/tigra/Desktop/RealityCheck    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tigra/Desktop/RealityCheck/DerivedData/RealityCheck/Build/Products/Debug-iphonesimulator/RealityCheck.app36"865EED25-EA66-47F0-AFA6-D3665DEC089A-
+
